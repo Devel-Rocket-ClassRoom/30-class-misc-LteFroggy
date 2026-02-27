@@ -1,4 +1,6 @@
 using System;
 
-// README.md를 읽고 아래에 코드를 작성하세요.
-Console.WriteLine("코드를 작성하세요.");
+Recipe r1 = new Recipe("비빔밥", 2, 5);
+r1.
+
+Recipe r2 = new Recipe("샌드위치", 1, 5);
