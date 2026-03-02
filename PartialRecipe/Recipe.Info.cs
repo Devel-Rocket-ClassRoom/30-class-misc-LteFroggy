@@ -1,4 +1,5 @@
-﻿partial class Recipe { 
+﻿using System;
+partial class Recipe { 
     private readonly string _name;
     private readonly int _servings;
     private string[] _ingredients;
